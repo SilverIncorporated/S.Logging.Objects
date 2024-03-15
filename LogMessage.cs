@@ -2,7 +2,7 @@ using System.Runtime.Serialization;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace S.Logging.NET;
+namespace S.Logging.Objects;
 
 // <summary>
 // Class <c>LogMessage</c> models a Log Message that is utilized for the SCALE Platform
